@@ -1,5 +1,6 @@
 void main() {  
   // lista de tipo entero 
+  print("Derek Santiago Garza Martinez 22308051281196 gpo-6-J");
    List <int> list1 = [210,21,22,];  
    print("Lista de enteros:");
    print(list1);  
